@@ -1,5 +1,5 @@
 # Repositorio ejemplo
-Este repositorio se hizo con loo estudiantes que asistieron (Porque fallaron Bazurto y Juan Acosta) en la asignatura IA 2022B
+Este repositorio se hizo con los estudiantes que asistieron (Porque fallaron Bazurto y Juan Acosta) en la asignatura IA 2022B
 ## Hardware
 Cualquier maquina con un OS Linux
 ## Cómo Instalarlo?
